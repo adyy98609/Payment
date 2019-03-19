@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: paymentApi Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Aditya.Gupta
+Implementation-Vendor-Id: com.syne
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://maven.apache.org
+Created-By: Maven Integration for Eclipse
+
